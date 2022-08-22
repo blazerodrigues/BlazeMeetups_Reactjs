@@ -18,4 +18,5 @@ Meetups can be added or removed from favorites. <br/>
 Deployed the React Application on Amazon Web Services (AWS) Elastic Compute Cloud (EC2) service
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/96373227/185997267-d593c532-d7fb-40bd-859e-f4f6134d8715.png">
 
+Connection from PC (local) to AWS EC2 (cloud) using SSH
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/96373227/185998199-cf1b5332-c362-4266-9a81-6154526000e0.png">
