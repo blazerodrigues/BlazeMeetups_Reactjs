@@ -13,3 +13,9 @@ MY FAVORITES page displays list of "favorite" meetup locations. <br/>
 The navbar also displays a badge showing number of "favorite" meetup locations. <br/>
 Meetups can be added or removed from favorites. <br/>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/96373227/185996175-51a9a98f-34b4-49a1-8fec-01ae78b32d9d.png">
+
+
+Deployed the React Application on Amazon Web Services (AWS) Elastic Compute Cloud (EC2) service
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/96373227/185997267-d593c532-d7fb-40bd-859e-f4f6134d8715.png">
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/96373227/185998199-cf1b5332-c362-4266-9a81-6154526000e0.png">
