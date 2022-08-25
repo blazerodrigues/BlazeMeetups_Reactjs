@@ -15,8 +15,15 @@ Meetups can be added or removed from favorites. <br/>
 
 # Deployment
 
-Deployed the React Application on Amazon Web Services (AWS) Elastic Compute Cloud (EC2) service
+1. AWS EC2 server was set up.<br/>
+2. SSH was used to connect local machine to EC2 cloud server.<br/>
+3. Code was downloaded from GitHub to EC2 server.<br/>
+4. Node NPM was installed on EC2 to enable it to run React.js application.<br/>
+5. After building the React.js application, the contents of build folder were copied to nginx web server.<br/>
+6. The React.js application was deployed on nginx using AWS EC2 service.<br/>
+
+Screenshot: Deployed the React Application on Amazon Web Services (AWS) Elastic Compute Cloud (EC2) service<br/>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/96373227/185997267-d593c532-d7fb-40bd-859e-f4f6134d8715.png">
 
-Connection from PC (local) to AWS EC2 (cloud) using SSH
+Screenshot: Connection from PC (local) to AWS EC2 (cloud) using SSH<br/>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/96373227/185998199-cf1b5332-c362-4266-9a81-6154526000e0.png">
