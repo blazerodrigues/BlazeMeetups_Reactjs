@@ -1,4 +1,4 @@
-# BlazeMeetups_Reactjs_AwsEc2Deployment
+# BlazeMeetups_Reactjs_AWS
 
 
 ALL MEETUPS page displaying list of all available meetup locations. <br/>
