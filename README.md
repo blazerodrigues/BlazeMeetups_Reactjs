@@ -1,4 +1,4 @@
-# BlazeMeetups_Reactjs_AWS
+# Blaze Meetups (React.js, Deployment on AWS)
 
 ALL MEETUPS page displaying list of all available meetup locations. <br/>
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/96373227/185996035-98b04b32-eed7-44da-b708-76b30fd7ff1a.png">
